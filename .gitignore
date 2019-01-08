@@ -35,3 +35,6 @@ app/
 
 config.development.js
 adapter.development.js
+
+# config 
+src/common/config/config.js
